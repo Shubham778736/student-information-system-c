@@ -1,2 +1,25 @@
-# student-information-system-c
-# Student Information System in C  This project is a simple Student Management System built using C.  ## Features - Add Student - View Students - Search by ID - Delete Student  ## Concepts Used - Structures - File Handling - Functions  ## Future Improvements - Update Feature - Sorting - Better UI
+# Student Information System in C
+
+This is a simple Student Management System built using C programming language with file handling.
+
+## Features
+- Add Student Record
+- View All Students
+- Search by ID
+- Delete Student Record
+
+## Technologies Used
+- C Programming
+- File Handling
+- Structures
+
+## Future Improvements
+- Update Feature
+- Sorting Records
+- Better UI
+
+## How to Run
+1. Compile the code using GCC:
+   gcc student_system.c -o student
+2. Run the program:
+   ./student
