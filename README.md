@@ -23,3 +23,13 @@ This is a simple Student Management System built using C programming language wi
    gcc student_system.c -o student
 2. Run the program:
    ./student
+## Screenshots
+
+### Add Student
+![Add](screenshots/add.jpg)
+
+### View Students
+![View](screenshots/view.jpg)
+
+### Search Student
+![Search](screenshots/search.jpg)
