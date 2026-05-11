@@ -26,10 +26,13 @@ This is a simple Student Management System built using C programming language wi
 ## Screenshots
 
 ### Add Student
-![Add](screenshots/add.jpg)
+add-student.jpg
+
 
 ### View Students
-![View](screenshots/view.jpg)
+view-students.jpg
+
 
 ### Search Student
-![Search](screenshots/search.jpg)
+
+IMG_20260505_234003.jpg
